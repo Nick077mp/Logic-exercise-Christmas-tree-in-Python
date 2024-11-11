@@ -44,7 +44,7 @@ Save the code as a Python file (e.g., christmas_tree.py).
 Open a terminal or command prompt and navigate to the directory where you saved the file.
 
 Run the script using the following command: python christmas_tree.py
-  
+
 The script will prompt you for an input value, which determines the height of the tree.
 
 # Customization: 
