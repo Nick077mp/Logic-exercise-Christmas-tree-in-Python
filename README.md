@@ -46,6 +46,7 @@ Open a terminal or command prompt and navigate to the directory where you saved 
 Run the script using the following command: python christmas_tree.py
   
 The script will prompt you for an input value, which determines the height of the tree.
+
 # Customization: 
 Tree Height: Adjust the input_value to control the tree's height.
 
